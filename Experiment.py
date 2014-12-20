@@ -32,6 +32,13 @@ for i in range(0,Nsens):
             count=count+1
         else:
             count=count
+
+
+dove andiamo?
+chi lo sa?
+
+Chi ha mangiato la marmellata?
+
             
             
         
